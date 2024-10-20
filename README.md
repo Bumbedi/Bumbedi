@@ -1,7 +1,4 @@
-## Hi there 👋
-
-its me.
-Confused like every day.
+.
 
 <!--
 **Bumbedi/Bumbedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
