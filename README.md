@@ -1,4 +1,4 @@
-.
+Ein kleines Quiz von meiner Tochte und mir.
 
 <!--
 **Bumbedi/Bumbedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
